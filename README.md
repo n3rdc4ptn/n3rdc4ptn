@@ -7,6 +7,6 @@
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=n3rdc4ptn&hide_rank=true" />
   </span>
   <span>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdc4ptn&hide=scss,css,tex,shell,smarty&size_weight=0.5&count_weight=0.5&hide_progress=true&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3rdc4ptn&hide=scss,css,tex,shell,smarty&size_weight=0.5&count_weight=0.5&hide_progress=true&card_width=400" />
 </span>
 
