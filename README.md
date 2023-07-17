@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n3rdc4ptn
 - 👀 I’m interested in Rust, JS/TS, Cloud Native Development
-- 💞️ I’m looking to collaborate on cloud projects and web development
+- 👯‍♀️ I’m looking to collaborate on cloud projects and web development
 <!-- - 📫 You can reach me  @n3rdc4ptn and on LinkedIn -->
 
 <span>
